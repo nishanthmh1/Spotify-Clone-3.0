@@ -1,0 +1,106 @@
+body{
+  background-color: burlywood;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+body{
+    background-color: antiquewhite;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+nav ul{
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    height: 65px;
+    background-color: black;
+    color: white;
+}
+
+nav ul li{
+    padding: 0 12px;
+}
+
+.brand img{
+  width: 44px;
+  padding: 0 8px;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  font-weight: bolder;
+  font-size: 1.3rem;
+}
+
+.songs{
+  padding: 50px;
+}
+
+.tamil-hits{
+  margin-left: 55pc;
+  width: 50pc;
+  margin-bottom: 3pc;
+  height: inherit;
+}
+
+.I-pop-superhits{
+  width: 50pc;
+}
+
+.boys{
+  width: 45pc;
+}
+
+.boys{
+  margin-left: 55pc;
+  width: 50pc;
+  margin-top: 3pc;
+}
+
+.Boys-attitude{
+  width: 50pc;
+  margin-top: 3pc;
+}
+
+.hot-telugu-hits{
+  margin-left: 55pc;
+  width: 50pc;
+  margin-top: 3pc;
+}
+
+.whoopty{
+  width: 50pc;
+  margin-top: 3pc;
+}
+
+.kaam-35{
+  margin-left: 55pc;
+  width: 50pc;
+  margin-top: 3pc;
+}
+
+.Paisa{
+  width: 50pc;
+  margin-top: 3pc;
+}
+
+.happy{
+  margin-left: 55pc;
+  width: 50pc;
+  margin-top: 3pc;
+}
+
+.Obbane{
+  width: 50pc;
+  margin-top: 3pc;
+}
